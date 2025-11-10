@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Mateo
+[![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateoromerocontreras)](https://github.com/mateoromerocontreras/github-readme-stats)
+<br>
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateoromerocontreras)](https://github-readme-stats.vercel.app/api/top-langs/?username=mateoromerocontreras)
 <!--
 **mateoromerocontreras/mateoromerocontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
