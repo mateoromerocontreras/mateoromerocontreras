@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Mateo
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=FF5656&repeat=false&width=435&lines=Mateo+Romero)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=FF5656&width=435&lines=System+Analyst;Full-Stack+Software+Developer)](https://git.io/typing-svg)
 [![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateoromerocontreras&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/mateoromerocontreras/github-readme-stats)
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateoromerocontreras&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=mateoromerocontreras)
