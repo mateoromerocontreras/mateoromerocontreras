@@ -2,7 +2,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=FF5656&width=435&lines=System+Analyst;Full-Stack+Software+Developer)](https://git.io/typing-svg)
 [![Mateo's GitHub stats](https://github-readme-stats-snowy-seven-50.vercel.app/api?username=mateoromerocontreras&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/mateoromerocontreras/github-readme-stats)
 
-[![Most used languages](https://github-readme-stats-snowy-seven-50.vercel.app/api/top-langs/?username=mateoromerocontreras&theme=dracula&show_icons=true&include_all_commits=true)]
+[![Most used languages](https://github-readme-stats-snowy-seven-50.vercel.app/api/top-langs/?username=mateoromerocontreras&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/mateoromerocontreras/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mateoromerocontreras&theme=dracula)](https://git.io/streak-stats)
 <!--
