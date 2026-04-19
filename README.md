@@ -61,7 +61,7 @@ Gemini API • Agile / Scrum / Jira • Testing (manual + API)
 ## 📫 Let's Connect & Collaborate
 - **LinkedIn:** [linkedin.com/in/mateo-romero-contreras-bb82a7206](https://www.linkedin.com/in/mateo-romero-contreras-bb82a7206/)
 - **Email:** mateo.romero.contreras@gmail.com
-- **Web:** [romeromateo.com.ar](romeromateo.com.ar)
+- **Web:** [romeromateo.com.ar](https://romeromateo.com.ar)
 - **Open to:** Full-time roles in Backend Development, QA Automation, Game QA or AI projects (Córdoba or remote)
 
 ---
