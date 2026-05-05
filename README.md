@@ -24,6 +24,7 @@ A professional SaaS platform designed to bridge the gap between job seekers and 
 *   **Tech Stack:** Java (Spring Boot) + React + PostgreSQL + Docker.
 *   **Key Features:** Automated CV tailoring based on job descriptions, AI-driven cover letter generation, secure payment integration, and real-time security log monitoring.
 *   **Infrastructure:** Configured with custom domain management and robust security protocols for production readiness.
+*   **Infrastructure:** https://tailorcvpro.com
 
 ### 2. **Gym Flow** – Comprehensive Full-Stack Management ⭐
 Full-stack fitness management platform featuring **AI-powered weekly workout routines**.  
